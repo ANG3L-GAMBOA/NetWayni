@@ -3,40 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|c:\\users\\angel gamboa\\source\\repos\\pruebae\\pruebae\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|solutionrelative:pruebae\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|c:\\users\\angel gamboa\\source\\repos\\pruebae\\pruebae\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|solutionrelative:pruebae\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B20E866-B1E9-40A7-8C4A-B04C74980F6F}|CleanConexion\\CleanConexion.csproj|c:\\users\\angel gamboa\\source\\repos\\pruebae\\cleanconexion\\conexion\\pruebaecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B20E866-B1E9-40A7-8C4A-B04C74980F6F}|CleanConexion\\CleanConexion.csproj|solutionrelative:cleanconexion\\conexion\\pruebaecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{143DE628-3539-4452-AD16-3F2AB18661AC}|CleanModels\\CleanModels.csproj|c:\\users\\angel gamboa\\source\\repos\\pruebae\\cleanmodels\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{143DE628-3539-4452-AD16-3F2AB18661AC}|CleanModels\\CleanModels.csproj|solutionrelative:cleanmodels\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|c:\\users\\angel gamboa\\source\\repos\\pruebae\\pruebae\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|solutionrelative:pruebae\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|c:\\users\\angel gamboa\\source\\repos\\pruebae\\pruebae\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|solutionrelative:pruebae\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B20E866-B1E9-40A7-8C4A-B04C74980F6F}|CleanConexion\\CleanConexion.csproj|c:\\users\\angel gamboa\\source\\repos\\pruebae\\cleanconexion\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B20E866-B1E9-40A7-8C4A-B04C74980F6F}|CleanConexion\\CleanConexion.csproj|solutionrelative:cleanconexion\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|c:\\users\\angel gamboa\\source\\repos\\pruebae\\pruebae\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|solutionrelative:pruebae\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|c:\\users\\angel gamboa\\source\\repos\\pruebae\\pruebae\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|solutionrelative:pruebae\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,49 +21,22 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\PruebaE\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "PruebaE\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\PruebaE\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "PruebaE\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-20T10:06:05.824Z",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\CleanConexion\\Conexion\\Conexion.cs",
+              "RelativeDocumentMoniker": "CleanConexion\\Conexion\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\CleanConexion\\Conexion\\Conexion.cs",
+              "RelativeToolTip": "CleanConexion\\Conexion\\Conexion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:40:19.685Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\CleanModels\\Usuario.cs",
-              "RelativeDocumentMoniker": "CleanModels\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\CleanModels\\Usuario.cs",
-              "RelativeToolTip": "CleanModels\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T09:49:24.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\PruebaE\\Views\\Usuarios\\Create.cshtml",
-              "RelativeDocumentMoniker": "PruebaE\\Views\\Usuarios\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\PruebaE\\Views\\Usuarios\\Create.cshtml",
-              "RelativeToolTip": "PruebaE\\Views\\Usuarios\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T09:48:53.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\PruebaE\\.env",
               "RelativeDocumentMoniker": "PruebaE\\.env",
@@ -99,67 +44,13 @@
               "RelativeToolTip": "PruebaE\\.env",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-20T09:40:18.596Z"
+              "WhenOpened": "2024-09-20T11:56:42.13Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\CleanConexion\\Conexion\\Conexion.cs",
-              "RelativeDocumentMoniker": "CleanConexion\\Conexion\\Conexion.cs",
-              "ToolTip": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\CleanConexion\\Conexion\\Conexion.cs",
-              "RelativeToolTip": "CleanConexion\\Conexion\\Conexion.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAB0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T09:37:43.42Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PruebaEContext.cs",
-              "DocumentMoniker": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\CleanConexion\\Conexion\\PruebaEContext.cs",
-              "RelativeDocumentMoniker": "CleanConexion\\Conexion\\PruebaEContext.cs",
-              "ToolTip": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\CleanConexion\\Conexion\\PruebaEContext.cs",
-              "RelativeToolTip": "CleanConexion\\Conexion\\PruebaEContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T09:38:47.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\PruebaE\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PruebaE\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\PruebaE\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PruebaE\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T09:36:12.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\PruebaE\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "PruebaE\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\PruebaE\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "PruebaE\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAWwH8AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T09:34:15.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\PruebaE\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PruebaE\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\PruebaE\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PruebaE\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvxwAAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T09:29:04.528Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }
