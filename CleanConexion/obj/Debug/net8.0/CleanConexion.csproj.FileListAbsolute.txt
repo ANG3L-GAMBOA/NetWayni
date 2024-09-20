@@ -1,0 +1,15 @@
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanConexion\bin\Debug\net8.0\CleanConexion.deps.json
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanConexion\bin\Debug\net8.0\CleanConexion.dll
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanConexion\bin\Debug\net8.0\CleanConexion.pdb
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanConexion\bin\Debug\net8.0\CleanModels.dll
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanConexion\bin\Debug\net8.0\CleanModels.pdb
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanConexion\obj\Debug\net8.0\CleanConexion.csproj.AssemblyReference.cache
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanConexion\obj\Debug\net8.0\CleanConexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanConexion\obj\Debug\net8.0\CleanConexion.AssemblyInfoInputs.cache
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanConexion\obj\Debug\net8.0\CleanConexion.AssemblyInfo.cs
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanConexion\obj\Debug\net8.0\CleanConexion.csproj.CoreCompileInputs.cache
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanConexion\obj\Debug\net8.0\CleanCon.19A3A9AB.Up2Date
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanConexion\obj\Debug\net8.0\CleanConexion.dll
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanConexion\obj\Debug\net8.0\refint\CleanConexion.dll
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanConexion\obj\Debug\net8.0\CleanConexion.pdb
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanConexion\obj\Debug\net8.0\ref\CleanConexion.dll

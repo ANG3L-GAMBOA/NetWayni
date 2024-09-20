@@ -1,0 +1,17 @@
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\bin\Debug\net8.0\CleanLogica.deps.json
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\bin\Debug\net8.0\CleanLogica.dll
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\bin\Debug\net8.0\CleanLogica.pdb
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\obj\Debug\net8.0\CleanLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\obj\Debug\net8.0\CleanLogica.AssemblyInfoInputs.cache
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\obj\Debug\net8.0\CleanLogica.AssemblyInfo.cs
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\obj\Debug\net8.0\CleanLogica.csproj.CoreCompileInputs.cache
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\obj\Debug\net8.0\CleanLogica.dll
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\obj\Debug\net8.0\refint\CleanLogica.dll
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\obj\Debug\net8.0\CleanLogica.pdb
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\obj\Debug\net8.0\ref\CleanLogica.dll
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\bin\Debug\net8.0\CleanConexion.dll
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\bin\Debug\net8.0\CleanModels.dll
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\bin\Debug\net8.0\CleanConexion.pdb
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\bin\Debug\net8.0\CleanModels.pdb
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\obj\Debug\net8.0\CleanLogica.csproj.AssemblyReference.cache
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanLogica\obj\Debug\net8.0\CleanLog.C9DEE6C7.Up2Date

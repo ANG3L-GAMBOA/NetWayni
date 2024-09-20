@@ -1,0 +1,14 @@
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanModels\bin\Debug\net8.0\CleanModels.deps.json
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanModels\bin\Debug\net8.0\CleanModels.runtimeconfig.json
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanModels\bin\Debug\net8.0\CleanModels.dll
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanModels\bin\Debug\net8.0\CleanModels.pdb
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanModels\obj\Debug\net8.0\CleanModels.csproj.AssemblyReference.cache
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanModels\obj\Debug\net8.0\CleanModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanModels\obj\Debug\net8.0\CleanModels.AssemblyInfoInputs.cache
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanModels\obj\Debug\net8.0\CleanModels.AssemblyInfo.cs
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanModels\obj\Debug\net8.0\CleanModels.csproj.CoreCompileInputs.cache
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanModels\obj\Debug\net8.0\CleanModels.dll
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanModels\obj\Debug\net8.0\refint\CleanModels.dll
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanModels\obj\Debug\net8.0\CleanModels.pdb
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanModels\obj\Debug\net8.0\CleanModels.genruntimeconfig.cache
+C:\Users\Angel Gamboa\source\repos\PruebaE\CleanModels\obj\Debug\net8.0\ref\CleanModels.dll
