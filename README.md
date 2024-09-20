@@ -32,7 +32,7 @@ https://youtu.be/NjX3HQ_DywQ
 
 - var server = Environment.GetEnvironmentVariable("Tu Servidor");
 - var dbName = Environment.GetEnvironmentVariable("Nombre de Base de Datos");
-- var dbUser = Environment.GetEnvironmentVariable("Nombre de Base de Datos, en caso no tener dejar solo `("root")`  en el caso de SQL Server `("master")`");
+- var dbUser = Environment.GetEnvironmentVariable("Nombre de Base de Datos, en caso no tener dejar solo `("root")`  en el caso de SQL Server `("sa")`");
 - var dbPassword = Environment.GetEnvironmentVariable("Contraseña de Base de Datos, en caso no tener dejar solo `("")`");
 
 - var connectionString = $"Server={"Tu Servidor"};Database={"Nombre de Base de Datos"};User Id={"Nombre de Base de Datos, en caso no tener dejar solo `("")` "};Password={Contraseña de Base de Datos, en caso no tener dejar solo `("")`};TrustServerCertificate=True;";<br>
@@ -61,8 +61,8 @@ https://youtu.be/NjX3HQ_DywQ
 # Arquitectura
 Este proyecto sigue los principios de Clean Architecture, que incluye:
 
-Capa de Presentación (UI): Maneja la interacción con el usuario.
-Capa de Aplicación: Contiene la lógica de la aplicación sin depender de los frameworks externos.
-Capa de Dominio: Contiene las entidades y las reglas de negocio fundamentales.
-Capa de Infraestructura: Maneja la interacción con la base de datos.
+- Capa de Presentación UI: Maneja la interacción con el usuario.
+- Capa de Aplicación: Contiene la lógica de la aplicación sin depender de los frameworks externos.
+- Capa de Dominio: Contiene las entidades y las reglas de negocio fundamentales.
+- Capa de Infraestructura: Maneja la interacción con la base de datos.
 
