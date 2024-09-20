@@ -26,7 +26,7 @@ https://youtu.be/NjX3HQ_DywQ
 `cd tu_proyecto`
 ### Configuracion de la Base de Datos
 
-### Crear Base de Datos
+## Crear Base de Datos
 - Para evitar cualquier tipo de problema en la ejecución del proyecto recomendado crear la base de datos con el nombre de `pruebaE`
   
 ### UNO
@@ -38,6 +38,7 @@ https://youtu.be/NjX3HQ_DywQ
 
 - var connectionString = $"Server={"Tu Servidor"};Database={"Nombre de Base de Datos"};User Id={"Nombre de Base de Datos, en caso no tener dejar solo `("")` "};Password={Contraseña de Base de Datos, en caso no tener dejar solo `("")`};TrustServerCertificate=True;";<br>
 <br>
+### Ubicación en Explorador de Archivos
  └── 📂 Repositories │ └── 📂 Conexión │ └── 📂 Conexión.cs
 
 
@@ -48,6 +49,7 @@ https://youtu.be/NjX3HQ_DywQ
 - DB_USER=Nombre de Base de Datos, en caso no tener dejar solo `("")`
 - DB_PASSWORD=Contraseña de Base de Datos, en caso no tener dejar solo `("")`<br>
 <br>
+### Ubicación en Explorador de Archivos
   └── 📂 PruebaE │ └── 📂 .env
 
 # Tecnologías Utilizadas
