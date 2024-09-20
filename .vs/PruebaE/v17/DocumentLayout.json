@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|c:\\users\\angel gamboa\\source\\repos\\pruebae\\pruebae\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|solutionrelative:pruebae\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B20E866-B1E9-40A7-8C4A-B04C74980F6F}|CleanConexion\\CleanConexion.csproj|c:\\users\\angel gamboa\\source\\repos\\pruebae\\cleanconexion\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B20E866-B1E9-40A7-8C4A-B04C74980F6F}|CleanConexion\\CleanConexion.csproj|solutionrelative:cleanconexion\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|c:\\users\\angel gamboa\\source\\repos\\pruebae\\pruebae\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{89973C7A-2917-49A9-90CB-2137A09803EC}|PruebaE\\PruebaE.csproj|solutionrelative:pruebae\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\CleanConexion\\Conexion\\Conexion.cs",
               "RelativeDocumentMoniker": "CleanConexion\\Conexion\\Conexion.cs",
@@ -36,13 +36,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\PruebaE\\.env",
               "RelativeDocumentMoniker": "PruebaE\\.env",
               "ToolTip": "C:\\Users\\Angel Gamboa\\source\\repos\\PruebaE\\PruebaE\\.env",
               "RelativeToolTip": "PruebaE\\.env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-09-20T11:56:42.13Z",
               "IsPinned": true,
