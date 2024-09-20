@@ -17,7 +17,7 @@ Este proyecto es una solución desarrollada con .NET Core, estructurada en capas
 ### Requisitos
 ✅.NET Core SDK (versión 7.0 o superior).<br>
 ✅SQL Server, MySQL o MongoDB.
-##3 Pasos para la Instalación
+##3 Pasos para la Instalación<br>
 `git clone https://github.com/ANG3L-GAMBOA/NetWayni.git`<br>
 `cd tu_proyecto`
 ### Configuracion de la Base de Datos
@@ -33,7 +33,7 @@ Este proyecto es una solución desarrollada con .NET Core, estructurada en capas
 - var dbPassword = Environment.GetEnvironmentVariable("Contraseña de Base de Datos, en caso no tener dejar solo `("")`");
 
 - var connectionString = $"Server={"Tu Servidor"};Database={"Nombre de Base de Datos"};User Id={"Nombre de Base de Datos, en caso no tener dejar solo `("")` "};Password={Contraseña de Base de Datos, en caso no tener dejar solo `("")`};TrustServerCertificate=True;";<br>
-
+<br>
  └── 📂 Repositories │ └── 📂 Conexión │ └── 📂 Conexión.cs
 
 
@@ -43,7 +43,16 @@ Este proyecto es una solución desarrollada con .NET Core, estructurada en capas
 - DB_NAME= Nombre de Base de Datos
 - DB_USER=Nombre de Base de Datos, en caso no tener dejar solo `("")`
 - DB_PASSWORD=Contraseña de Base de Datos, en caso no tener dejar solo `("")`<br>
-
+<br>
   └── 📂 PruebaE │ └── 📂 .env
+
+# Tecnologías Utilizadas
+- [ASP.NET CORE](https://dotnet.microsoft.com/es-es/apps/aspnet)  MVC - Framework para el desarrollo de aplicaciones web.
+- [Entity Framework Core](https://learn.microsoft.com/es-es/ef/core/) - ORM para la gestión de la base de datos.
+- [SQL Server](https://www.microsoft.com/es-es/sql-server/sql-server-2019) - Sistemas de gestión de base de datos.
+- [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) - Para asegurar una mejor separación de responsabilidades.
+- [C#](https://learn.microsoft.com/es-es/dotnet/csharp/) - Lenguaje de programación.
+- [HTML/CSS](https://www.w3schools.com/html/html_css.asp) - Para la interfaz de usuario.
+- [GIT](https://git-scm.com/docs/git) - Para manejo de las versiones.
 
 
