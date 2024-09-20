@@ -32,7 +32,7 @@ https://youtu.be/NjX3HQ_DywQ
 
 - var server = Environment.GetEnvironmentVariable("Tu Servidor");
 - var dbName = Environment.GetEnvironmentVariable("Nombre de Base de Datos");
-- var dbUser = Environment.GetEnvironmentVariable("Nombre de Base de Datos, en caso no tener dejar solo `("")` ");
+- var dbUser = Environment.GetEnvironmentVariable("Nombre de Base de Datos, en caso no tener dejar solo `("root")`  en el caso de SQL Server `("master")`");
 - var dbPassword = Environment.GetEnvironmentVariable("Contraseña de Base de Datos, en caso no tener dejar solo `("")`");
 
 - var connectionString = $"Server={"Tu Servidor"};Database={"Nombre de Base de Datos"};User Id={"Nombre de Base de Datos, en caso no tener dejar solo `("")` "};Password={Contraseña de Base de Datos, en caso no tener dejar solo `("")`};TrustServerCertificate=True;";<br>
