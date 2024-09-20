@@ -37,7 +37,7 @@ https://youtu.be/NjX3HQ_DywQ
 - var dbUser = Environment.GetEnvironmentVariable("Nombre de Base de Datos, en caso no tener dejar solo `("root")`  en el caso de SQL Server `("sa")`");
 - var dbPassword = Environment.GetEnvironmentVariable("Contraseña de Base de Datos, en caso no tener dejar solo `("")`");
 
-- var connectionString = $"Server={"Tu Servidor"};Database={"Nombre de Base de Datos"};User Id={"Nombre de Base de Datos, en caso no tener dejar solo `("")` "};Password={Contraseña de Base de Datos, en caso no tener dejar solo `("")`};TrustServerCertificate=True;";<br>
+- var connectionString = $"Server={"Tu Servidor"};Database={"Nombre de Base de Datos"};User Id={"Nombre de Base de Datos, en caso no tener dejar solo `("sa/root")` "};Password={Contraseña de Base de Datos, en caso no tener dejar solo `("")`};TrustServerCertificate=True;";<br>
 <br>
 
 ### Ubicación en Explorador de Archivos
@@ -48,7 +48,7 @@ https://youtu.be/NjX3HQ_DywQ
 
 - DB_SERVER=Tu Servidor
 - DB_NAME= Nombre de Base de Datos
-- DB_USER=Nombre de Base de Datos, en caso no tener dejar solo `("")`
+- DB_USER=Nombre de Base de Datos, en caso no tener dejar solo `("sa/root")`
 - DB_PASSWORD=Contraseña de Base de Datos, en caso no tener dejar solo `("")`<br>
 <br>
 
