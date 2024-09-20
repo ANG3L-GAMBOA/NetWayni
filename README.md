@@ -22,8 +22,9 @@ https://youtu.be/NjX3HQ_DywQ
 ✅Ejecutar el proyecto con la ultima version de Visual Studio 2022.<br>
 ✅SQL Server, MySQL o MongoDB.
 ##3 Pasos para la Instalación<br>
-`git clone https://github.com/ANG3L-GAMBOA/NetWayni.git`<br>
-`cd tu_proyecto`
+`cd Tu_ubicación`<br>
+`git clone https://github.com/ANG3L-GAMBOA/NetWayni.git`
+
 ### Configuracion de la Base de Datos
 
 ## Crear Base de Datos
@@ -38,6 +39,7 @@ https://youtu.be/NjX3HQ_DywQ
 
 - var connectionString = $"Server={"Tu Servidor"};Database={"Nombre de Base de Datos"};User Id={"Nombre de Base de Datos, en caso no tener dejar solo `("")` "};Password={Contraseña de Base de Datos, en caso no tener dejar solo `("")`};TrustServerCertificate=True;";<br>
 <br>
+
 ### Ubicación en Explorador de Archivos
  └── 📂 Repositories │ └── 📂 Conexión │ └── 📂 Conexión.cs
 
@@ -49,6 +51,7 @@ https://youtu.be/NjX3HQ_DywQ
 - DB_USER=Nombre de Base de Datos, en caso no tener dejar solo `("")`
 - DB_PASSWORD=Contraseña de Base de Datos, en caso no tener dejar solo `("")`<br>
 <br>
+
 ### Ubicación en Explorador de Archivos
   └── 📂 PruebaE │ └── 📂 .env
 
