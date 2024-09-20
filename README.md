@@ -6,6 +6,9 @@ Este proyecto es una solución desarrollada con .NET Core, estructurada en capas
 - Apellido (cadena de texto)
 - DNI (cadena de texto)
 
+## Video Instructivo
+https://youtu.be/NjX3HQ_DywQ
+
 ## Requerimientos
 - Implementación de endpoints CRUD (Crear, Leer, Actualizar, Eliminar) para los usuarios.
 - Uso de SQL Server, MySQL o MongoDB como base de datos.
@@ -55,4 +58,11 @@ Este proyecto es una solución desarrollada con .NET Core, estructurada en capas
 - [HTML/CSS](https://www.w3schools.com/html/html_css.asp) - Para la interfaz de usuario.
 - [GIT](https://git-scm.com/docs/git) - Para manejo de las versiones.
 
+# Arquitectura
+Este proyecto sigue los principios de Clean Architecture, que incluye:
+
+Capa de Presentación (UI): Maneja la interacción con el usuario.
+Capa de Aplicación: Contiene la lógica de la aplicación sin depender de los frameworks externos.
+Capa de Dominio: Contiene las entidades y las reglas de negocio fundamentales.
+Capa de Infraestructura: Maneja la interacción con la base de datos.
 
