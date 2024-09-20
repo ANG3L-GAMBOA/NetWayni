@@ -18,7 +18,8 @@ https://youtu.be/NjX3HQ_DywQ
 - Capturas de pantalla o un video de la aplicación en funcionamiento.
 # Instalación
 ### Requisitos
-✅.NET Core SDK (versión 7.0 o superior).<br>
+✅.NET Core SDK (versión 8.0 o superior).<br>
+✅Ejecutar el proyecto con la ultima version de Visual Studio 2022.<br>
 ✅SQL Server, MySQL o MongoDB.
 ##3 Pasos para la Instalación<br>
 `git clone https://github.com/ANG3L-GAMBOA/NetWayni.git`<br>
